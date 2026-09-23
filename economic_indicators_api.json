@@ -1,0 +1,4002 @@
+[
+    {
+        "customer_id": 10522,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10738,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10741,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10661,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10412,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10679,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10627,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10514,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10860,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10137,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10812,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10077,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10637,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10974,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10939,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10900,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10281,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10884,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10762,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10320,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10550,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10175,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10372,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10528,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10211,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10236,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10102,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10987,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10903,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10948,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10347,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10140,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10622,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10500,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10371,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10199,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10688,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10585,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10902,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10060,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10329,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10097,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10313,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10975,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10300,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10278,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10925,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10602,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10440,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10838,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10571,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10880,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10262,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10579,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10024,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10031,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10618,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10011,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10222,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10821,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10297,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10055,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10543,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10210,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10605,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10693,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10663,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10867,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10071,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10544,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10108,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10494,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10591,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10742,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10293,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10290,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10653,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10040,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10590,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10308,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10680,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10067,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10276,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10068,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10319,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10549,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10999,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10715,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10754,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10328,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10383,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10452,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10523,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10219,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10788,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10437,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10765,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10089,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10064,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10827,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10717,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10352,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10937,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10257,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10636,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10645,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10555,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10960,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10169,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10918,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10529,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10824,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10986,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10817,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10087,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10433,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10185,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10979,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10535,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10295,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10893,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10426,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10714,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10261,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10238,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10560,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10584,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10446,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10868,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10801,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10600,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10850,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10266,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10996,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10530,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10056,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10121,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10216,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10026,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10073,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10045,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10248,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10722,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10282,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10894,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10915,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10811,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10245,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10823,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10322,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10644,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10159,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10978,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10430,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10942,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10463,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10310,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10698,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10061,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10885,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10596,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10768,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10650,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10651,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10866,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10669,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10299,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10690,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10315,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10311,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10362,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10480,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10111,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10990,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10487,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10364,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10255,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10260,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10803,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10678,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10495,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10671,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10378,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10527,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10846,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10138,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10356,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10366,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10943,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10750,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10949,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10830,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10657,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10200,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10214,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10409,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10333,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10209,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10614,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10079,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10030,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10536,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10696,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10558,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10837,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10597,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10166,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10919,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10496,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10825,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10066,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10142,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10926,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10828,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10656,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10332,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10665,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10250,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10908,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10709,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10306,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10735,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10976,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10050,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10897,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10003,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10545,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10351,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10905,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10537,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10345,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10995,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10482,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10576,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10034,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10032,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10232,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10964,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10193,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10334,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10004,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10205,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10515,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10800,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10307,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10110,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10431,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10078,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10085,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10287,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10083,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10992,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10790,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10895,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10399,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10324,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10520,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10917,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10923,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10006,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10732,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10466,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10098,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10267,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10358,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10869,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10799,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10381,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10632,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10382,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10491,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10119,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10901,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10251,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10524,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10010,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10197,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10604,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10082,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10784,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10588,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10798,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10240,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10291,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10212,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10718,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10360,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10450,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10228,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10951,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10947,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10797,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10502,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10465,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10363,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10469,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10936,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10429,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10008,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10156,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10542,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10441,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10483,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10423,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10779,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10950,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10335,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10577,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10935,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10568,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10595,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10531,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10582,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10708,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10449,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10454,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10229,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10353,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10729,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10213,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10080,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10149,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10303,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10629,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10778,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10507,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10343,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10486,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10712,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10134,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10704,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10312,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10723,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10630,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10001,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10317,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10707,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10548,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10873,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10533,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10478,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10405,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10173,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10126,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10395,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10421,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10553,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10904,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10091,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10940,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10182,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10275,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10896,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10070,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10292,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10132,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10301,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10425,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10327,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10145,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10424,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10581,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10136,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10451,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10165,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10029,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10774,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10194,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10389,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10853,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10170,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10706,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10141,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10174,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10007,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10746,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10479,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10074,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10911,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10814,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10239,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10146,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10793,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10235,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10221,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10924,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10501,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10133,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10991,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10775,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10186,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10042,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10697,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10109,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10589,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10057,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10406,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10443,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10758,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10998,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10025,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10468,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10540,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10532,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10619,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10695,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10927,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10339,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10052,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10508,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10517,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10921,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10782,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10265,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10818,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10711,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10683,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10833,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10519,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10448,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10019,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10716,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10484,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10569,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10434,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10368,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10084,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10062,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10639,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10273,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10286,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10361,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10355,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10457,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10279,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10013,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10183,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10369,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10882,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10616,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10224,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10573,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10971,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10654,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10546,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10583,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10634,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10177,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10666,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10674,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10586,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10874,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10394,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10164,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10249,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10635,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10886,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10670,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10376,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10413,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10075,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10114,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10599,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10962,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10391,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10105,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10115,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10418,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10526,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10458,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10410,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10093,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10931,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10090,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10337,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10989,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10922,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10934,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10606,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10594,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10612,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10095,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10012,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10397,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10534,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10044,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10043,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10330,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10168,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10498,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10877,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10598,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10757,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10101,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10427,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10179,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10445,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10417,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10871,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10883,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10681,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10178,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10396,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10912,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10794,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10961,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10685,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10384,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10957,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10752,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10258,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10539,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10336,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10016,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10325,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10759,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10223,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10180,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10984,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10023,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10357,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10667,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10862,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10341,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10432,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10552,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10834,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10204,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10631,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10094,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10559,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10069,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10623,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10285,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10845,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10435,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10154,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10076,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10731,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10447,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10189,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10272,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10237,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10488,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10118,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10944,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10513,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10826,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10592,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10127,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10117,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10474,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10694,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10058,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10864,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10913,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10370,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10269,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10047,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10350,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10196,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 11000,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10835,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10737,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10264,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10444,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10676,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10305,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10342,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10967,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10150,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10125,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10787,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10051,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10354,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10928,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10143,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10471,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10400,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10626,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10321,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10020,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10810,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10791,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10809,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10408,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10538,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10621,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10039,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10176,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10246,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10829,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10668,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10755,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10859,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10155,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10288,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10603,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10570,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10744,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10018,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10128,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10323,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10256,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10658,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10965,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10191,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10116,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10617,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10607,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10181,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10302,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10760,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10713,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10724,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10686,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10980,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10518,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10985,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10046,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10910,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10158,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10852,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10172,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10017,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10512,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10049,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10972,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10941,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10516,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10953,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10481,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10284,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10719,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10878,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10226,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10027,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10955,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10438,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10952,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10365,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10230,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10038,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10966,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10375,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10470,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10968,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10851,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10705,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10842,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10195,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10855,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10865,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10504,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10970,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10831,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10580,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10969,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10163,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10909,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10153,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10802,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10994,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10756,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10112,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10227,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10689,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10104,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10422,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10420,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10751,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10587,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10781,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10673,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10120,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10054,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10152,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10404,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10946,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10208,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10659,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10844,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10763,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10009,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10808,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10037,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10453,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10652,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10254,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10304,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10747,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10572,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10624,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10733,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10892,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10263,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10611,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10298,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10415,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10151,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10789,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10641,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10890,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10551,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10887,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10489,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10148,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10147,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10721,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10932,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10740,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10660,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10349,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10464,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10326,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10187,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10124,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10854,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10609,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10144,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10959,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10198,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10610,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10280,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10294,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10401,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10123,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10184,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10203,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10439,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10247,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10416,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10933,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10766,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10907,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10836,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10888,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10130,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10638,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10403,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10785,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10771,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10736,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10914,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10220,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10642,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10916,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10753,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10807,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10920,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10625,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10875,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10761,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10387,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10973,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10510,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10268,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10820,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10442,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10497,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10113,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10692,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10233,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10870,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10608,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10672,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10374,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10982,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10843,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10234,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10786,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10677,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10318,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10649,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10411,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10899,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10710,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10359,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10259,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10745,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10628,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10633,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10283,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10377,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10385,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10225,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10954,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10815,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10473,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10348,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10506,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10640,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10988,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10929,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10906,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10620,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10856,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10804,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10646,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10847,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10557,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10958,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10578,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10796,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10086,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10243,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10699,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10160,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10525,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10036,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10541,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10171,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10655,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10891,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10858,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10848,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10945,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10734,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10096,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10564,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10241,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10743,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10575,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10691,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10461,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10554,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10889,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10207,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10393,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10795,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10398,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10767,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10849,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10218,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10005,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10769,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10643,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10930,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10613,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10739,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10547,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10726,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10684,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10099,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10805,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10728,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10574,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10407,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10503,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10048,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10033,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10780,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10840,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10201,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10135,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10028,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10881,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10231,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10490,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10773,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10379,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10289,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10419,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10675,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10392,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10593,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10499,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10139,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10063,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10472,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10648,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10129,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10977,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10521,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10839,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10963,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10065,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10813,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10015,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10157,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10041,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10493,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10380,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10188,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10764,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10217,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10792,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10053,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10879,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10338,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10749,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10720,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10725,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10296,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10702,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10252,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10727,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10462,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10456,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10997,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10816,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10863,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10270,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10202,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10162,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10556,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10730,
+        "economic_index": 0.91
+    },
+    {
+        "customer_id": 10402,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10703,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10477,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10822,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10772,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10106,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10566,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10390,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10002,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10938,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10983,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10562,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10081,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10206,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10035,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10776,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10509,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10428,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10455,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10367,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10092,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10340,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10898,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10565,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10346,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10777,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10242,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10014,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10316,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10601,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10388,
+        "economic_index": 1.05
+    },
+    {
+        "customer_id": 10274,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10167,
+        "economic_index": 0.99
+    },
+    {
+        "customer_id": 10841,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10993,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10647,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10819,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10485,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10981,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10505,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10832,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10244,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10567,
+        "economic_index": 1.1
+    },
+    {
+        "customer_id": 10876,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10563,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10687,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10190,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10783,
+        "economic_index": 0.93
+    },
+    {
+        "customer_id": 10700,
+        "economic_index": 1.08
+    },
+    {
+        "customer_id": 10476,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10682,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10511,
+        "economic_index": 0.88
+    },
+    {
+        "customer_id": 10059,
+        "economic_index": 0.92
+    },
+    {
+        "customer_id": 10475,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10561,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10857,
+        "economic_index": 1.11
+    },
+    {
+        "customer_id": 10748,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10253,
+        "economic_index": 1.04
+    },
+    {
+        "customer_id": 10022,
+        "economic_index": 1.14
+    },
+    {
+        "customer_id": 10314,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10460,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10161,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10277,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10956,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10192,
+        "economic_index": 0.9
+    },
+    {
+        "customer_id": 10386,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10806,
+        "economic_index": 1.12
+    },
+    {
+        "customer_id": 10414,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10492,
+        "economic_index": 1.06
+    },
+    {
+        "customer_id": 10344,
+        "economic_index": 1.01
+    },
+    {
+        "customer_id": 10770,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10309,
+        "economic_index": 0.95
+    },
+    {
+        "customer_id": 10662,
+        "economic_index": 1.13
+    },
+    {
+        "customer_id": 10131,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10664,
+        "economic_index": 0.85
+    },
+    {
+        "customer_id": 10872,
+        "economic_index": 0.87
+    },
+    {
+        "customer_id": 10100,
+        "economic_index": 1.07
+    },
+    {
+        "customer_id": 10373,
+        "economic_index": 0.98
+    },
+    {
+        "customer_id": 10088,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10459,
+        "economic_index": 1.03
+    },
+    {
+        "customer_id": 10331,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10215,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10467,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10122,
+        "economic_index": 1.09
+    },
+    {
+        "customer_id": 10615,
+        "economic_index": 0.89
+    },
+    {
+        "customer_id": 10021,
+        "economic_index": 0.97
+    },
+    {
+        "customer_id": 10701,
+        "economic_index": 0.94
+    },
+    {
+        "customer_id": 10072,
+        "economic_index": 0.96
+    },
+    {
+        "customer_id": 10107,
+        "economic_index": 1.02
+    },
+    {
+        "customer_id": 10271,
+        "economic_index": 1.0
+    },
+    {
+        "customer_id": 10861,
+        "economic_index": 0.86
+    },
+    {
+        "customer_id": 10436,
+        "economic_index": 1.15
+    },
+    {
+        "customer_id": 10103,
+        "economic_index": 0.96
+    }
+]
